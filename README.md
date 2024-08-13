@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(index.html)
+- Solution URL:(https://github.com/ravipatel31social-links/blob/main/index.html)
 - Live Site URL: (https://ravipatel31.github.io/social-links/)
 
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Ravikumar Patel](https://ravipatel31.github.io/social-links/)
-- Frontend Mentor - [@ravipatel31](https://www.frontendmentor.io/profile/ravipatel31)
+- Website - (https://ravipatel31.github.io/social-links/)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/ravipatel31)
 
 

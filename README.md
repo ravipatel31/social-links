@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Ravikumar Patel](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ravipatel31)
+- Website - [Ravikumar Patel](https://ravipatel31.github.io/social-links/)
+- Frontend Mentor - [@ravipatel31](https://www.frontendmentor.io/profile/ravipatel31)
 
 
